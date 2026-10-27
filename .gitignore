@@ -1,0 +1,6 @@
+# Personal task data
+todo_tasks.txt
+
+# Python cache
+__pycache__/
+*.pyc
